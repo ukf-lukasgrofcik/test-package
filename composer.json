@@ -1,0 +1,18 @@
+{
+    "name": "lukasgrofcik/package",
+    "description": "Test package",
+    "type": "project",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Lukasgrofcik\\Package\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lukás Grofcík"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
