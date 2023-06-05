@@ -1,5 +1,6 @@
 {
     "name": "lukasgrofcik/package",
+    "version": "1.0.0",
     "description": "Test package",
     "type": "project",
     "license": "proprietary",
